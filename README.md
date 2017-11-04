@@ -1,5 +1,9 @@
 # Toro Net
 
+## To refer the milestones of Backend Team, click on the link below
+
+[BackendTeam Milestone](https://github.com/Janani1989/csc583-midterm/blob/master/images/milestone.png)
+
 ## Getting started with VirtualBox
 Fork the repo then clone it to your local machine.
 ```
